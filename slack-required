@@ -1,2 +1,2 @@
-glibc-solibs >= 2.9
-libsndfile >= 1.0.20
+glibc-solibs >= 2.13
+libsndfile >= 1.0.25
