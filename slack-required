@@ -1,2 +1,5 @@
-glibc-solibs >= 2.13
+flac >= 1.2.1
+glibc-solibs >= 2.15
+libogg >= 1.3.0
 libsndfile >= 1.0.25
+libvorbis >= 1.3.3
