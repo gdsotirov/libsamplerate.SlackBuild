@@ -8,4 +8,4 @@ libsamplerate: SRC is capable of arbitrary and time varying conversions;
 libsamplerate: from downsampling by a factor of 256 to upsampling by the
 libsamplerate: same factor. The conversion ratio can also vary with time for
 libsamplerate: speeding up and slowing down effects.
-libsamplerate: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libsamplerate: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
